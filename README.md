@@ -11,7 +11,7 @@ Disfruto diseñar y optimizar aplicaciones escribiendo código limpio, legible y
 
 ### Proyectos Destacados
 
-* **Mundial 2026** – Plataforma web con arquitectura BFF, desarrollada con Angular 19, NestJS y consumo de APIs REST.
+* [**Mundial 2026**](https://github.com/NellyBurgos/mundial-2026-fullstack) – Plataforma web con arquitectura BFF, desarrollada con Angular 19, NestJS y consumo de APIs REST.
 * **Recordatorio Estudiantil** – Aplicación web progresiva (PWA) para organización académica, creada con Angular y Firebase.
 * **UTNito** – Sistema de chat full-stack enfocado en componentes dinámicos en frontend y backend con NestJS.
 
