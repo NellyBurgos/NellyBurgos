@@ -1,7 +1,7 @@
 # Nelly Burgos
 
 ### Full Stack Developer | Estudiante de Programación
-Buenos Aires, Argentina
+Buenos Aires, CABA
 
 Apasionada por construir soluciones de software eficientes, combinando lógica sólida con interfaces modernas. Estudiante avanzada en la UTN FRBA, orientada al desarrollo web full-stack, la computación en la nube y la ciberseguridad.
 
