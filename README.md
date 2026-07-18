@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nelly Burgos 👋
+# Nelly Burgos 
 
 ### Full Stack Developer | Estudiante de Programación
 
