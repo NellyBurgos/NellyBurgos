@@ -32,7 +32,7 @@ Actualmente enfocada en desarrollo web full-stack, integración de IA en aplicac
     <td width="33%" valign="top">
       <h4>📅 Agenda Estudiantil</h4>
       <p>PWA para organización académica: recordatorios, materias y seguimiento de entregas.</p>
-      <a href="https://recordatorioestudiantil.web.app">🔗 Demo en vivo</a> · <a href="https://github.com/NellyBurgos/agenda-estudiantil">Repo</a>
+      <a href="https://recordatorioestudiantil.web.app">🔗 Demo </a> · <a href="https://github.com/NellyBurgos/agenda-estudiantil">Repo</a>
     </td>
     <td width="33%" valign="top">
       <h4>⚽ Mundial 2026</h4>
