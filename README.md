@@ -16,6 +16,7 @@
 Estudiante avanzada de la **Tecnicatura Universitaria en Programación (UTN FRBA)**. Me apasiona construir soluciones de software eficientes, combinando lógica sólida con interfaces modernas — desde el diseño de una API hasta el último detalle de la UI.
 
 Actualmente enfocada en desarrollo web full-stack, integración de IA en aplicaciones reales, y fundamentos de ciberseguridad y computación en la nube.
+[![Portfolio](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-nelly-dev.vercel.app)
 
 ---
 
